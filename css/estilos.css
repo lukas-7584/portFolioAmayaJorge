@@ -177,10 +177,13 @@ main div h2{
     border: #fee083 solid 10px;
 }
 
-.titulo-card {
+.card-header {
     background-color: #0087a2;
-    font-size: large;
+    font-size: x-large;
+}
 
+.fondo-ulCard{
+    background-color: #0087a2;
 }
 
 .texto-card{
