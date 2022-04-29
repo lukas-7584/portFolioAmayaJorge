@@ -148,9 +148,10 @@ main div h2{
 }
 
 .yo_2022{
-    width: 20%;
+    width: 30%;
     border-radius: 50%;
     border: #fee083 solid 10px;    
+    margin-bottom: 15px;
 }
 
 .yo_contenedor{
@@ -178,12 +179,16 @@ main div h2{
 
 .titulo-card {
     background-color: #0087a2;
-    font-size: x-large;
+    font-size: large;
 
 }
 
 .texto-card{
     font-size: 20px;
+}
+
+.img-card{
+    font-size: 1rem;
 }
 
 /*   FINAL ESTILOS MAIN Y HEADER---------------------------------------------------------------- */
@@ -454,6 +459,12 @@ footer .lgo{
     margin-top: 5px;
 }   
 
+.yo_2022{
+    width: 50%;
+    border-radius: 50%;
+    border: #fee083 solid 10px;    
+    margin-bottom: 15px;
+}
 } 
 
 /* FIN MEDIA QUERIES----------------------------------------------------------------------- */
