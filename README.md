@@ -10,7 +10,7 @@
  
  <img src="./img/html_original_wordmark_logo_icon_146478.png" />
 
- <img src="./img/file_type_css_icon_130661.png"/>GIT
+ <img src="./img/file_type_css_icon_130661.png"/>
 
  <img src="./img/javascript_icon_130900.png"/>
 
